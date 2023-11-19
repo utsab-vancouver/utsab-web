@@ -107,6 +107,20 @@ figure {
     pointer-events: none;
 }
 
+.caption-overlay .caption-center {
+    bottom: 40px;
+    right: 5px;
+    text-align: center;
+}
+
+.caption-overlay .caption-center {
+    position: absolute;
+    padding: 0;
+    width: 100%;
+    pointer-events: none;
+}
+
+
 .caption-overlay .caption .layer {
     background: rgba(29,29,33,0.7);
     padding: 12px 20px;
