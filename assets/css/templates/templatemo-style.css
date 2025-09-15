@@ -90,6 +90,19 @@ p {
 	height: 680px;
 }
 
+.banner .left-banner-content-picnic-2025 {
+	padding-top: 175px;
+	padding-bottom: 175px;
+	padding-left: 120px;
+	text-align: left;
+	background-image: url(https://shorturl.at/Iya2G);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	min-height: 680px;
+	height: 680px;
+}
+
 .left-banner-content h6 {
 	font-size: 14px;
 	font-weight: 700;
@@ -207,7 +220,7 @@ p {
 	padding-top: 175px;
 	padding-bottom: 175px;
 	text-align: center;
-	/*background-image: url(https://lh3.googleusercontent.com/pw/AIL4fc_g6wSWSgU6j64R-lVrOzHtlBw5kTTrd79KFBeOtCJtjcWRrPygBVnPg7SDzgSUuTESBAzcfQCmtF-_0ZxJhQ66lI4LSI2meSOvQAm99ViKhWb2tLWF6Mj5DfF6FG4f5XuURzpKASqtp_E9xkmv8NY=w1148-h765-s-no);*/
+	background-image: url(https://lh3.googleusercontent.com/pw/AIL4fc_g6wSWSgU6j64R-lVrOzHtlBw5kTTrd79KFBeOtCJtjcWRrPygBVnPg7SDzgSUuTESBAzcfQCmtF-_0ZxJhQ66lI4LSI2meSOvQAm99ViKhWb2tLWF6Mj5DfF6FG4f5XuURzpKASqtp_E9xkmv8NY=w1148-h765-s-no);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
